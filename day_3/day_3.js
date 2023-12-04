@@ -1,5 +1,4 @@
 const fs = require('fs');
-const { get } = require('http');
 
 const schematic = fs
   .readFileSync('day_3/day_3_file.txt')
